@@ -1,4 +1,4 @@
-public class Main {
+public class Main1_1 {
   public static void main(String[] args) {
     Hero h1 = new Hero();
     h1.setName("ミナト");
