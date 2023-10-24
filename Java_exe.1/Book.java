@@ -1,4 +1,4 @@
-// 問題1
+// 問題1-1
 import java.util.*;
 
 public class Book implements Comparable<Book>, Cloneable {
