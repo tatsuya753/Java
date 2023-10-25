@@ -1,4 +1,7 @@
 // 問題1-1
+//書名と発行日が同じであれば等価
+// 発行日が古い順が自然順序
+// 深いコピーによる複製
 import java.util.*;
 
 public class Book implements Comparable<Book>, Cloneable {
